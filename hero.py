@@ -94,3 +94,4 @@ Monster = Villain('Танос', 'Thanos', 'Telepathy', \
                   1000, 'Reality can be whatever I want it to be!', 400, False)
 
 Villain.crit(Hero3)
+pass
